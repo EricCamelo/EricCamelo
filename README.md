@@ -1,7 +1,7 @@
 # Olá, me chamo Eric! 👋🏻 
 
-- Estudando tecnologia.
-- Graduando em Análise e Desenvolvimento de Sistemas.
+Estudando tecnologia.<br>
+Graduando em Análise e Desenvolvimento de Sistemas.
 
 ## Redes
 
@@ -9,7 +9,9 @@
 
 ## GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=EricCamelo&show_icons=true&theme=dracula)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=EricCamelo&show_icons=true&theme=)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
 
