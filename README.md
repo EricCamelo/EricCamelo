@@ -1,6 +1,6 @@
 # Olá, me chamo Eric! 👋🏻 
 
-- Estudado tecnologia.
+- Estudando tecnologia.
 - Graduando em Análise e Desenvolvimento de Sistemas.
 
 ## Redes
