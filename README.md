@@ -1,7 +1,7 @@
 # Olá, me chamo Eric! 👋🏻 
 
-Apaixonado por tecnologia.<br>
-Graduando em Análise e Desenvolvimento de Sistemas.
+💻 Apaixonado por tecnologia.<br>
+🎓 Graduando em Análise e Desenvolvimento de Sistemas.
 
 
 ## Redes de contato
